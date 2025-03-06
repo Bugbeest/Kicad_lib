@@ -454,7 +454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Aura_Footprints:TI_WQFN-13_P0.5_EP"
+		(property "Footprint" "BugBeest:TI_WQFN-13_P0.5_EP"
 			(at 0 0 0)
 			(effects
 				(font
