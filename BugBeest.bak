@@ -735,14 +735,6 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "ki_keywords" "diode"
 			(at 0 0 0)
 			(effects
@@ -841,66 +833,6 @@
 					)
 				)
 				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SD24C-7_2_1"
-			(pin passive line
-				(at -2.54 0 0)
-				(length 2.54)
-				(name "K2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SD24C-7_3_1"
-			(pin passive line
-				(at -2.54 0 0)
-				(length 2.54)
-				(name "K3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SD24C-7_4_1"
-			(pin passive line
-				(at -2.54 0 0)
-				(length 2.54)
-				(name "K4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
