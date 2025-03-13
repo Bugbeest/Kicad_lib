@@ -1,0 +1,233 @@
+(footprint "CUI_TBLH10-350-02BK"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.5 -4 0)
+		(layer "F.SilkS")
+		(uuid "dd0e9fce-9ead-44d9-90ce-744273e1d2f4")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CUI_TBLH10-350-02BK"
+		(at 13.791 13.861 0)
+		(layer "F.Fab")
+		(uuid "b0f5576b-15f7-4253-9d93-10d5527e696a")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c0d68be-bf95-419c-9ad6-1949416e97b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6414db4-8a5e-40bd-82d8-3772cda67add")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.1 -1.7)
+		(end 5.6 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bcbf7ccb-450b-4695-9ed3-3db5aadc171a")
+	)
+	(fp_line
+		(start -2.1 8)
+		(end -2.1 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3674766-f13f-4a80-b157-a0d3f12bb9a7")
+	)
+	(fp_line
+		(start 5.6 -1.7)
+		(end 5.6 8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "df289b75-135e-4648-b955-36057ff84991")
+	)
+	(fp_circle
+		(center 0 -2.7)
+		(end 0.1 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c31d16f7-d8cc-4d40-8dd7-a45a522e3fcd")
+	)
+	(fp_line
+		(start -2.35 -1.95)
+		(end 5.85 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "25909ade-6df9-4935-bc34-b4150b4afe0e")
+	)
+	(fp_line
+		(start -2.35 12.75)
+		(end -2.35 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "63d2a0b1-712e-49fa-b937-71f56f3be7d2")
+	)
+	(fp_line
+		(start 5.85 -1.95)
+		(end 5.85 12.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36cac1ea-a5a5-4636-b93a-627811d14825")
+	)
+	(fp_line
+		(start 5.85 12.75)
+		(end -2.35 12.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d6ca2e5f-c6e6-4d17-a19b-a25b6ca5d174")
+	)
+	(fp_line
+		(start -2.1 -1.7)
+		(end 5.6 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f3b7e1fa-8d32-4040-8e5d-dd0b22b5b16e")
+	)
+	(fp_line
+		(start -2.1 12.5)
+		(end -2.1 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c16bdc9-c9bb-46d3-a2f6-8bdbf3542b2d")
+	)
+	(fp_line
+		(start 5.6 -1.7)
+		(end 5.6 12.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "176f4efd-7c06-4838-b741-f8f7c1f53c27")
+	)
+	(fp_line
+		(start 5.6 12.5)
+		(end -2.1 12.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd826954-7398-4f3a-9092-a4aebfd5d380")
+	)
+	(fp_circle
+		(center 0 -2.7)
+		(end 0.1 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "53a928a6-7b90-4106-b5bb-1adb9075efda")
+	)
+	(pad "1_A" thru_hole rect
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5195494e-76ac-4b66-ab45-d8433e87db8d")
+	)
+	(pad "1_B" thru_hole rect
+		(at 0 7)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3bcf0ce2-6bf1-4369-9f53-01be7c8bd6b4")
+	)
+	(pad "2_A" thru_hole circle
+		(at 3.5 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b82a9be6-e608-401f-adac-72f44eb40a8c")
+	)
+	(pad "2_B" thru_hole circle
+		(at 3.5 7)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "08683efb-1fb7-49e2-bb11-376f50ed5df2")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/bepar/Documents/Bugbeest/Clients/Tamura/fan-controller/lib/Kicad_lib/3D/TBLH10-350-02BK.step"
+		(offset
+			(xyz 0.8 1.6 4.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)
