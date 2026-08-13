@@ -1070,7 +1070,7 @@
 		)
 		(symbol "NCV68061_0_0"
 			(pin input line
-				(at 0 5.08 180)
+				(at -2.54 5.08 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -1088,7 +1088,7 @@
 				)
 			)
 			(pin passive line
-				(at 13.97 10.16 0)
+				(at 16.51 10.16 180)
 				(length 2.54)
 				(name "D"
 					(effects
@@ -1106,7 +1106,7 @@
 				)
 			)
 			(pin passive line
-				(at 13.97 12.7 0)
+				(at 16.51 12.7 180)
 				(length 2.54)
 				(name "G"
 					(effects
@@ -1124,7 +1124,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 12.7 180)
+				(at -2.54 12.7 0)
 				(length 2.54)
 				(name "S"
 					(effects
@@ -1144,7 +1144,7 @@
 		)
 		(symbol "NCV68061_1_0"
 			(pin passive line
-				(at 0 2.54 180)
+				(at -2.54 2.54 0)
 				(length 2.54)
 				(name "GND"
 					(effects
