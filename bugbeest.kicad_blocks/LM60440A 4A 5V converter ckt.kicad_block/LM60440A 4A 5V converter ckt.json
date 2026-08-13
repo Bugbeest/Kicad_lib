@@ -1,0 +1,8 @@
+{
+"description": "",
+"keywords": "5V Converter",
+"fields": {
+"Voltage": "5V",
+"Rated current": "4A"
+}
+}
